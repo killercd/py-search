@@ -1,8 +1,4 @@
 # py-search 
 
 
-examples
 
-python search.py c:\imgfolder\ *.png
-python search.py c:\data\xml\ data-*-.xml
-python search.py c:\ *.sql "insert into"
